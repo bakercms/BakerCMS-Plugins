@@ -1,4 +1,4 @@
-Recent Visitors Plugin for Hotaru CMS
+Recent Visitors Plugin for Baker CMS
 --------------------------------
 Created by: Nick Ramsay
 

@@ -1,4 +1,4 @@
-Gravatar Plugin for Hotaru CMS
+Gravatar Plugin for Baker CMS
 --------------------------------
 Created by: Nick Ramsay
 

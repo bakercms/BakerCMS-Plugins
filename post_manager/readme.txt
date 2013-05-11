@@ -1,4 +1,4 @@
-Post Manager Plugin for Hotaru CMS
+Post Manager Plugin for Baker CMS
 --------------------------------------
 Created by: Nick Ramsay
 

@@ -1,4 +1,4 @@
-Bookmarklet Plugin for Hotaru CMS
+Bookmarklet Plugin for Baker CMS
 ---------------------------------
 Created by: Nick Ramsay
 

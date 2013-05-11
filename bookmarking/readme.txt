@@ -1,4 +1,4 @@
-Social Bookmarking Base Plugin for Hotaru CMS
+Social Bookmarking Base Plugin for Baker CMS
 ---------------------------------------------
 Created by: Nick Ramsay
 

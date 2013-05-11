@@ -1,4 +1,4 @@
-User Signin Plugin for Hotaru CMS
+User Signin Plugin for Baker CMS
 --------------------------------
 Created by: Nick Ramsay
 

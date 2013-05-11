@@ -1,4 +1,4 @@
-Domain Results Plugin for Hotaru CMS
+Domain Results Plugin for Baker CMS
 --------------------------------
 Created by: Nick Ramsay
 

@@ -1,4 +1,4 @@
-Widgets Plugin for Hotaru CMS
+Widgets Plugin for Baker CMS
 -------------------------------------
 Created by: Nick Ramsay
 

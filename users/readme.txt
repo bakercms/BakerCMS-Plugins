@@ -1,4 +1,4 @@
-Users Plugin for Hotaru CMS
+Users Plugin for Baker CMS
 --------------------------------
 Created by: Nick Ramsay
 

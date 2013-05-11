@@ -1,4 +1,4 @@
-Cron Plugin for Hotaru CMS
+Cron Plugin for Baker CMS
 --------------------------------
 Created by: shibuya246 (http://shibuya246.com)
 

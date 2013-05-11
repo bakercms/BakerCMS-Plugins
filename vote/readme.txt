@@ -1,4 +1,4 @@
-Vote Plugin for Hotaru CMS
+Vote Plugin for Baker CMS
 ---------------------------------
 Created by: Nick Ramsay
 

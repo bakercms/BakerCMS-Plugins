@@ -1,4 +1,4 @@
-Social Bookmarking Submit Plugin for Hotaru CMS
+Social Bookmarking Submit Plugin for Baker CMS
 ---------------------------------------------
 Created by: Nick Ramsay
 

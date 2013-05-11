@@ -1,4 +1,4 @@
-Comment Manager Plugin for Hotaru CMS
+Comment Manager Plugin for Baker CMS
 --------------------------------------
 Created by: Nick Ramsay
 

@@ -1,4 +1,4 @@
-Text Widget Plugin for Hotaru CMS
+Text Widget Plugin for Baker CMS
 ---------------------------------
 Created by: Nick Ramsay
 

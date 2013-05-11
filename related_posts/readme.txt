@@ -1,4 +1,4 @@
-Related Posts Plugin for Hotaru CMS
+Related Posts Plugin for Baker CMS
 -----------------------------------
 Created by: Nick Ramsay
 

@@ -1,4 +1,4 @@
-Category Manager Plugin for Hotaru CMS
+Category Manager Plugin for Baker CMS
 --------------------------------------
 Created by: Nick Ramsay
 

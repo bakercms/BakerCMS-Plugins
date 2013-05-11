@@ -1,14 +1,14 @@
- * LICENSE: Hotaru CMS is free software: you can redistribute it and/or 
+ * LICENSE: Baker CMS is free software: you can redistribute it and/or 
  * modify it under the terms of the GNU General Public License as 
  * published by the Free Software Foundation, either version 3 of 
  * the License, or (at your option) any later version. 
  *
- * Hotaru CMS is distributed in the hope that it will be useful, but WITHOUT 
+ * Baker CMS is distributed in the hope that it will be useful, but WITHOUT 
  * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or 
  * FITNESS FOR A PARTICULAR PURPOSE. 
  *
  * You should have received a copy of the GNU General Public License along 
- * with Hotaru CMS. If not, see http://www.gnu.org/licenses/.
+ * with Baker CMS. If not, see http://www.gnu.org/licenses/.
  * 
  * @category  Content Management System
  * @package   Sitemap
@@ -24,7 +24,7 @@ Installation
 To install this sitemap please do the following:
 1. Unpack the plugin
 2. Copy the sitemap folder to your "content/plugins" directory
-3. Login to your Hotaru CMS and access the Admin section
+3. Login to your Baker CMS and access the Admin section
 4. Choose the Plugin Management section
 5. Click the install button
 
@@ -43,7 +43,7 @@ The sitemap plugin only has 3 options currently. To prepare for a sitemap:
 Submitting Bugs
 *****************
 To submit any bugs please do not email me directly. Please submit any bug reports to the Hotaru Forums, under the Plugins and Hacks section.
-http://hotarucms.org/forumdisplay.php?7-Plugins-and-Hacks
+http://Baker CMS.org/forumdisplay.php?7-Plugins-and-Hacks
 
 Revision History
 *****************

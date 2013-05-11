@@ -1,4 +1,4 @@
-Post Images plugin for Hotaru CMS
+Post Images plugin for Baker CMS
 --------------------------------
 Created by: Matthis de Wit
 

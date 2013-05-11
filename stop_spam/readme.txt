@@ -1,4 +1,4 @@
-Stop Forum Spam Plugin for Hotaru CMS
+Stop Forum Spam Plugin for Baker CMS
 ---------------------------------
 Created by: Nick Ramsay
 
@@ -9,7 +9,7 @@ This plugin the StopForumSpam.com blacklist (http://www.stopforumspam.com/) to k
 1. Checks for a new user's username, email address and IP address on the SFS blacklist.
 2. Puts users into moderation if they are found on the blacklist. 
 3. Includes a note in the User Manager plugin stating whether the user's name, email or IP address was flagged.
-4. Provides as option to add any killspammed or deleted users to the blacklist so that they won't be able to register on other Hotaru CMS sites.
+4. Provides as option to add any killspammed or deleted users to the blacklist so that they won't be able to register on other Baker CMS sites.
 
 Instructions
 ------------

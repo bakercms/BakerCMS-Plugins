@@ -1,4 +1,4 @@
-RSS Autoreader Plugin for Hotaru CMS
+RSS Autoreader Plugin for Baker CMS
 --------------------------------
 Created by: shibuya246 (http://shibuya246.com)
 

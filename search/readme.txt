@@ -1,4 +1,4 @@
-Search Plugin for Hotaru CMS
+Search Plugin for Baker CMS
 ---------------------------------
 Created by: Nick Ramsay
 

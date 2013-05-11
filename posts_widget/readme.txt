@@ -1,4 +1,4 @@
-Posts Widget Plugin for Hotaru CMS
+Posts Widget Plugin for Baker CMS
 --------------------------------
 Created by: Nick Ramsay
 

@@ -4,24 +4,24 @@
  *
  * PHP version 5
  *
- * LICENSE: Hotaru CMS is free software: you can redistribute it and/or 
+ * LICENSE: Baker CMS is free software: you can redistribute it and/or 
  * modify it under the terms of the GNU General Public License as 
  * published by the Free Software Foundation, either version 3 of 
  * the License, or (at your option) any later version. 
  *
- * Hotaru CMS is distributed in the hope that it will be useful, but WITHOUT 
+ * Baker CMS is distributed in the hope that it will be useful, but WITHOUT 
  * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or 
  * FITNESS FOR A PARTICULAR PURPOSE. 
  *
  * You should have received a copy of the GNU General Public License along 
- * with Hotaru CMS. If not, see http://www.gnu.org/licenses/.
+ * with Baker CMS. If not, see http://www.gnu.org/licenses/.
  * 
  * @category  Content Management System
- * @package   HotaruCMS
- * @author    Nick Ramsay <admin@hotarucms.org>
- * @copyright Copyright (c) 2009, Hotaru CMS
+ * @package   Baker CMS
+ * @author    Nick Ramsay / Stuart Duff
+ * @copyright Copyright (c) 2009, Baker CMS
  * @license   http://www.gnu.org/copyleft/gpl.html GNU General Public License
- * @link      http://www.hotarucms.org/
+ * @link      http://bakercms.com/
  */
  
 class ReCaptchaSettings
@@ -50,7 +50,7 @@ class ReCaptchaSettings
         echo "<form name='recaptcha_settings_form' action='" . BASEURL . "admin_index.php?page=plugin_settings&amp;plugin=recaptcha' method='post'>\n";
         
         $thisdomain =  rstrtrim(str_replace("http://", "", BASEURL), '/');
-        echo "<p>" . $h->lang["recaptcha_settings_desc"] . " <a href='http://recaptcha.net/api/getkey?domain=" . $thisdomain . "&app=HotaruCMS'>reCAPTCHA.net</a>.</p><br />\n";
+        echo "<p>" . $h->lang["recaptcha_settings_desc"] . " <a href='http://recaptcha.net/api/getkey?domain=" . $thisdomain . "&app=Baker CMS'>reCAPTCHA.net</a>.</p><br />\n";
         
         echo "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" . $h->lang["recaptcha_settings_public_key"] . ": <input type='text' name='rc_pubkey' size=50 value='" . $pubkey . "'><br /><br />\n";
         echo "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" . $h->lang["recaptcha_settings_private_key"] . ": <input type='text' name='rc_privkey' size=50 value='" . $privkey . "'><br /><br />\n";

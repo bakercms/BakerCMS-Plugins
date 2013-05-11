@@ -1,4 +1,4 @@
-Post RSS Plugin for Hotaru CMS
+Post RSS Plugin for Baker CMS
 ---------------------------------------------
 Created by: Nick Ramsay
 

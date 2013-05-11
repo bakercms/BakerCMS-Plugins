@@ -1,4 +1,4 @@
-ReCaptcha Plugin for Hotaru CMS
+ReCaptcha Plugin for Baker CMS
 --------------------------------
 Created by: Nick Ramsay
 

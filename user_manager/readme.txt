@@ -1,4 +1,4 @@
-User Manager Plugin for Hotaru CMS
+User Manager Plugin for Baker CMS
 --------------------------------------
 Created by: Nick Ramsay
 

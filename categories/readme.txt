@@ -1,4 +1,4 @@
-Categories Plugin for Hotaru CMS
+Categories Plugin for Baker CMS
 --------------------------------
 Created by: Nick Ramsay
 

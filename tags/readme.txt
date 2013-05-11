@@ -1,4 +1,4 @@
-Tags Plugin for Hotaru CMS
+Tags Plugin for Baker CMS
 --------------------------------
 Created by: Nick Ramsay
 
